@@ -346,7 +346,16 @@ mpd не запускается с медиакнопок - проверь:
 systemctl --user --now enable mpd-mpris
 ```
 
-
+Включение NTP
+```
+timedatectl status
+```
+```
+timedatectl set-ntp true
+```
+```
+timedatectl set-timezone "Asia/Tokyo"
+```
 2. MTP для подключения телефона и т.д.
    
 Нужный пакет - ```jmtpfs```
