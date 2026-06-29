@@ -4,7 +4,7 @@ Hi.
 This is my Arch+Hyprland config backup files for everyday using on my laptop, now it is ThinkPad T480.
 May be I will update configs may be not.
 
-<br>![](https://github.com/bulat-ch/my-hyprland-configs/blob/main/screenshots/screenshot_main_blank.png)
+<br>![](https://github.com/bulat-chu/my-hyprland-configs/blob/main/screenshots/screenshot_main_blank.png)
 
 Main packages:
 ```
